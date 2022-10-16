@@ -8,6 +8,6 @@
 
 6. run command `git checkout -b yourname`
 7. update people.txt with your name
-8. git add people.txt
-9. git commit -m "added name"
-10. git push
+8. `git add people.txt`
+9. `git commit -m "added name"`
+10. `git push`
